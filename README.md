@@ -1,5 +1,5 @@
 # Work-Offers-Scraping-Desktop-Application
-Work Offers Scraping Desktop Application
+
 A Java-based desktop application that uses machine learning algorithms to categorize job offers based on education level, experience, and technologies cited in the offer.
 
 Features
