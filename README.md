@@ -18,4 +18,4 @@ Contributions
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and make a pull request.
 
 Contact
-If you have any questions or suggestions, please feel free to contact me at [email address].
+If you have any questions or suggestions, please feel free to contact me at taherikram.89@gmail.com .
